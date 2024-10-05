@@ -15,7 +15,7 @@
 [https://www.bilibili.com/video/BV13h4y1j7Yh/](https://www.bilibili.com/video/BV13h4y1j7Yh/)**
 
  
-[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
+[https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
 ## 基于Springboot+Vue的宠物医院系统(源代码+数据库)086
 
